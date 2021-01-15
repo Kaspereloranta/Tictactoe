@@ -1,6 +1,6 @@
 """ TIE-02101 OHJELMOINTI 1: Johdatus Ohjelmointiin
     Tehtävä 13.10 Graafinen käyttöliittymä Tkinterillä
-    Kasper Eloranta, kasper.eloranta@student.tut.fi, opiskelijanumero: 274212
+    Kasper Eloranta, kasper.eloranta@tuni.fi
 
     Ristinollapeli, jota pelataan 3x3 pelialustalla ja pelaajia on kaksi.
       Pelissä ideana on saada pelialustaan kolmen suora omia pelimerkkejä
